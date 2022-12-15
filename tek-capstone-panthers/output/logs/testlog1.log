@@ -1,0 +1,927 @@
+2022-11-15 23:00:04,221 [main] INFO logger_file - Click on signIn Page
+2022-11-15 23:00:04,490 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordABC@123abc
+2022-11-15 23:00:04,575 [main] INFO logger_file - User clicks on logIn Button
+2022-11-15 23:00:04,786 [main] INFO logger_file - User loggedIn into account
+2022-11-16 23:06:46,809 [main] INFO logger_file - Click on signIn Page
+2022-11-16 23:12:38,144 [main] INFO logger_file - Click on signIn Page
+2022-11-16 23:12:38,325 [main] INFO logger_file - User clicks on new account button
+2022-11-16 23:12:43,639 [main] INFO logger_file - User fill the signUp information
+2022-11-16 23:12:43,702 [main] INFO logger_file - User clicks on SignUp Button
+2022-11-16 23:12:43,924 [main] INFO logger_file - Account is created
+2022-11-16 23:38:57,935 [main] INFO logger_file - Click on signIn Page
+2022-11-16 23:38:58,028 [main] INFO logger_file - User clicks on new account button
+2022-11-16 23:39:03,358 [main] INFO logger_file - User fill the signUp information
+2022-11-16 23:39:03,423 [main] INFO logger_file - User clicks on SignUp Button
+2022-11-16 23:40:08,489 [main] INFO logger_file - Click on signIn Page
+2022-11-16 23:40:08,589 [main] INFO logger_file - User clicks on new account button
+2022-11-16 23:40:13,929 [main] INFO logger_file - User fill the signUp information
+2022-11-16 23:40:13,995 [main] INFO logger_file - User clicks on SignUp Button
+2022-11-16 23:40:14,945 [main] INFO logger_file - Account is created
+2022-11-17 22:13:40,244 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:13:40,338 [main] INFO logger_file - User clicks on new account button
+2022-11-17 22:13:45,671 [main] INFO logger_file - User fill the signUp information
+2022-11-17 22:13:45,736 [main] INFO logger_file - User clicks on SignUp Button
+2022-11-17 22:22:19,325 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:22:19,566 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:22:19,647 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:23:01,544 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:23:01,776 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:23:01,853 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:23:47,345 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:23:47,442 [main] INFO logger_file - User clicks on new account button
+2022-11-17 22:23:52,773 [main] INFO logger_file - User fill the signUp information
+2022-11-17 22:23:52,843 [main] INFO logger_file - User clicks on SignUp Button
+2022-11-17 22:23:53,074 [main] INFO logger_file - Account is created
+2022-11-17 22:46:53,581 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:46:53,823 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:46:53,901 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:46:54,117 [main] INFO logger_file - User loggedIn into account
+2022-11-17 22:46:59,229 [main] INFO logger_file - Account should be opened
+2022-11-17 22:46:59,400 [main] INFO logger_file - User enters nameQand Agha and Phone703 555 655
+2022-11-17 22:46:59,470 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 22:49:47,421 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:49:47,653 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:49:47,734 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:49:47,947 [main] INFO logger_file - User loggedIn into account
+2022-11-17 22:49:53,052 [main] INFO logger_file - Account should be opened
+2022-11-17 22:49:53,222 [main] INFO logger_file - User enters nameQand Agha and Phone703 555 655
+2022-11-17 22:49:53,291 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 22:49:53,310 [main] INFO logger_file - User Account should be updated
+2022-11-17 22:53:32,352 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:53:32,589 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:53:32,672 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:53:32,881 [main] INFO logger_file - User loggedIn into account
+2022-11-17 22:53:37,987 [main] INFO logger_file - Account should be opened
+2022-11-17 22:53:43,161 [main] INFO logger_file - User enters nameQand Agha and Phone703 555 655
+2022-11-17 22:53:48,247 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 22:53:48,271 [main] INFO logger_file - User Account should be updated
+2022-11-17 22:54:23,407 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:54:23,660 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:54:23,740 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:54:23,909 [main] INFO logger_file - User loggedIn into account
+2022-11-17 22:54:29,011 [main] INFO logger_file - Account should be opened
+2022-11-17 22:54:34,186 [main] INFO logger_file - User enters nameQand Agha and Phone703 555 689
+2022-11-17 22:54:39,267 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 22:54:39,290 [main] INFO logger_file - User Account should be updated
+2022-11-17 22:58:53,819 [main] INFO logger_file - Click on signIn Page
+2022-11-17 22:58:54,050 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 22:58:54,125 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 22:58:54,338 [main] INFO logger_file - User loggedIn into account
+2022-11-17 22:58:59,439 [main] INFO logger_file - Account should be opened
+2022-11-17 22:59:04,604 [main] INFO logger_file - User enters nameQand Agha and Phone703 444 5656
+2022-11-17 22:59:09,683 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 22:59:09,705 [main] INFO logger_file - User Account should be updated
+2022-11-17 23:01:42,485 [main] INFO logger_file - Click on signIn Page
+2022-11-17 23:01:47,685 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 23:01:52,812 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 23:01:57,843 [main] INFO logger_file - User loggedIn into account
+2022-11-17 23:02:02,957 [main] INFO logger_file - Account should be opened
+2022-11-17 23:02:08,156 [main] INFO logger_file - User enters nameQand Agha and Phone703 444 0987
+2022-11-17 23:02:13,236 [main] INFO logger_file - User clicks on Update Button
+2022-11-17 23:02:13,253 [main] INFO logger_file - User Account should be updated
+2022-11-17 23:41:14,691 [main] INFO logger_file - Click on signIn Page
+2022-11-17 23:41:19,891 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 23:41:24,986 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 23:41:30,011 [main] INFO logger_file - User loggedIn into account
+2022-11-17 23:41:35,115 [main] INFO logger_file - Account should be opened
+2022-11-17 23:41:40,336 [main] INFO logger_file - User inter new Pass
+2022-11-17 23:51:16,782 [main] INFO logger_file - Click on signIn Page
+2022-11-17 23:51:21,991 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-17 23:51:27,076 [main] INFO logger_file - User clicks on logIn Button
+2022-11-17 23:51:32,103 [main] INFO logger_file - User loggedIn into account
+2022-11-17 23:51:37,200 [main] INFO logger_file - Account should be opened
+2022-11-17 23:51:42,445 [main] INFO logger_file - User inter new Pass
+2022-11-17 23:51:47,522 [main] INFO logger_file - User clicks on changePass Button
+2022-11-17 23:51:47,539 [main] INFO logger_file - Password Updated Successfully
+2022-11-21 22:08:58,230 [main] INFO logger_file - Click on signIn Page
+2022-11-21 22:09:03,433 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-21 22:09:08,509 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 22:09:59,347 [main] INFO logger_file - Click on signIn Page
+2022-11-21 22:10:04,540 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@1234599
+2022-11-21 22:10:09,626 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 22:11:06,465 [main] INFO logger_file - Click on signIn Page
+2022-11-21 22:11:11,658 [main] INFO logger_file - User enter emailqandaghajan@tekschool.uspasswordTek@12345991
+2022-11-21 22:11:16,733 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:29:22,291 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:29:27,481 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:29:32,557 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:29:37,582 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:29:42,675 [main] INFO logger_file - User click on Account option
+2022-11-21 23:29:42,732 [main] INFO logger_file - User click on Account option
+2022-11-21 23:35:10,454 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:35:15,657 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:35:20,735 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:35:25,774 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:35:30,880 [main] INFO logger_file - User click on Account option
+2022-11-21 23:35:30,938 [main] INFO logger_file - User click on Account option
+2022-11-21 23:36:50,797 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:36:55,990 [main] INFO logger_file - User enter emailfarhad.jamall@tekschool.uspasswordAbc@123abcc
+2022-11-21 23:37:01,070 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:37:28,335 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:37:33,529 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:37:38,602 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:37:43,632 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:37:48,734 [main] INFO logger_file - User click on Account option
+2022-11-21 23:37:48,795 [main] INFO logger_file - User click on Account option
+2022-11-21 23:43:47,715 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:43:52,907 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:43:57,987 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:44:03,018 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:44:08,112 [main] INFO logger_file - User click on Account option
+2022-11-21 23:44:08,176 [main] INFO logger_file - User click on Account option
+2022-11-21 23:44:08,515 [main] INFO logger_file - Enter Payment Information
+2022-11-21 23:44:13,587 [main] INFO logger_file - Payment Submit
+2022-11-21 23:44:13,604 [main] INFO logger_file - Payment Info Successfully
+2022-11-21 23:49:57,787 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:50:02,983 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:50:08,053 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:50:13,088 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:50:18,185 [main] INFO logger_file - User click on Account option
+2022-11-21 23:50:18,245 [main] INFO logger_file - User click on Account option
+2022-11-21 23:50:18,581 [main] INFO logger_file - Enter Payment Information
+2022-11-21 23:50:23,655 [main] INFO logger_file - Payment Submit
+2022-11-21 23:50:23,674 [main] INFO logger_file - Payment Info Successfully
+2022-11-21 23:53:28,381 [main] INFO logger_file - Click on signIn Page
+2022-11-21 23:53:33,574 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-21 23:53:38,645 [main] INFO logger_file - User clicks on logIn Button
+2022-11-21 23:53:43,673 [main] INFO logger_file - User loggedIn into account
+2022-11-21 23:53:48,771 [main] INFO logger_file - User click on Account option
+2022-11-21 23:53:49,124 [main] INFO logger_file - Enter Payment Information
+2022-11-21 23:53:54,196 [main] INFO logger_file - Payment Submit
+2022-11-21 23:53:54,211 [main] INFO logger_file - Payment Info Successfully
+2022-11-24 16:10:12,141 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:10:17,493 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:10:22,612 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:10:27,666 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:10:32,854 [main] INFO logger_file - User click on Account option
+2022-11-24 16:30:24,701 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:30:30,065 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:30:35,226 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:30:40,265 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:30:45,436 [main] INFO logger_file - User click on Account option
+2022-11-24 16:35:29,601 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:35:34,811 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:35:39,899 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:35:44,923 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:35:50,036 [main] INFO logger_file - User click on Account option
+2022-11-24 16:38:27,867 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:38:33,083 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:38:38,164 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:38:43,194 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:38:48,310 [main] INFO logger_file - User click on Account option
+2022-11-24 16:51:29,136 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:51:34,344 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:51:39,417 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:51:44,457 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:51:49,558 [main] INFO logger_file - User click on Account option
+2022-11-24 16:51:49,631 [main] INFO logger_file - User Click on Master Card
+2022-11-24 16:51:54,712 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-24 16:56:21,931 [main] INFO logger_file - Click on signIn Page
+2022-11-24 16:56:27,140 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 16:56:32,223 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 16:56:37,257 [main] INFO logger_file - User loggedIn into account
+2022-11-24 16:56:42,366 [main] INFO logger_file - User click on Account option
+2022-11-24 16:56:42,444 [main] INFO logger_file - User Click on Master Card
+2022-11-24 16:56:47,526 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-24 17:01:46,420 [main] INFO logger_file - Click on signIn Page
+2022-11-24 17:01:51,626 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 17:01:56,734 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 17:02:01,768 [main] INFO logger_file - User loggedIn into account
+2022-11-24 17:02:06,867 [main] INFO logger_file - User click on Account option
+2022-11-24 17:02:06,941 [main] INFO logger_file - User Click on Master Card
+2022-11-24 17:02:12,016 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-24 17:08:53,755 [main] INFO logger_file - Click on signIn Page
+2022-11-24 17:08:58,985 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-24 17:09:04,054 [main] INFO logger_file - User clicks on logIn Button
+2022-11-24 17:09:09,095 [main] INFO logger_file - User loggedIn into account
+2022-11-24 17:09:14,198 [main] INFO logger_file - User click on Account option
+2022-11-24 17:09:14,275 [main] INFO logger_file - User Click on Master Card
+2022-11-24 17:09:19,356 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-27 17:30:22,007 [main] INFO logger_file - Click on signIn Page
+2022-11-27 17:30:27,394 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 17:30:32,523 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 17:30:37,571 [main] INFO logger_file - User loggedIn into account
+2022-11-27 17:30:42,739 [main] INFO logger_file - User click on Account option
+2022-11-27 17:30:42,850 [main] INFO logger_file - User Click on Master Card
+2022-11-27 17:30:47,954 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-27 18:12:04,547 [main] INFO logger_file - Click on signIn Page
+2022-11-27 18:12:09,927 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 18:12:15,066 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 18:12:20,117 [main] INFO logger_file - User loggedIn into account
+2022-11-27 18:12:25,324 [main] INFO logger_file - User click on Account option
+2022-11-27 18:12:25,463 [main] INFO logger_file - User Click on Master Card
+2022-11-27 18:14:14,315 [main] INFO logger_file - Click on signIn Page
+2022-11-27 18:14:19,679 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 18:14:24,795 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 18:14:29,846 [main] INFO logger_file - User loggedIn into account
+2022-11-27 18:14:35,059 [main] INFO logger_file - User click on Account option
+2022-11-27 18:14:35,194 [main] INFO logger_file - User Click on Master Card
+2022-11-27 18:28:14,838 [main] INFO logger_file - Click on signIn Page
+2022-11-27 18:28:20,232 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 18:28:25,370 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 18:28:30,420 [main] INFO logger_file - User loggedIn into account
+2022-11-27 18:28:35,626 [main] INFO logger_file - User click on Account option
+2022-11-27 18:28:35,770 [main] INFO logger_file - User Click on Master Card
+2022-11-27 18:29:55,275 [main] INFO logger_file - Click on signIn Page
+2022-11-27 18:30:00,634 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 18:30:05,743 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 18:30:10,791 [main] INFO logger_file - User loggedIn into account
+2022-11-27 18:30:16,006 [main] INFO logger_file - User click on Account option
+2022-11-27 18:30:16,125 [main] INFO logger_file - User Click on Master Card
+2022-11-27 18:30:21,255 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-27 19:51:30,327 [main] INFO logger_file - Click on signIn Page
+2022-11-27 19:51:35,717 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-27 19:51:40,829 [main] INFO logger_file - User clicks on logIn Button
+2022-11-27 19:51:45,870 [main] INFO logger_file - User loggedIn into account
+2022-11-27 19:51:51,063 [main] INFO logger_file - User click on Account option
+2022-11-27 19:51:51,199 [main] INFO logger_file - User Click on Master Card
+2022-11-27 19:51:56,341 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:24:50,104 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:24:55,497 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:25:00,626 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:25:05,678 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:25:10,897 [main] INFO logger_file - User click on Account option
+2022-11-28 14:25:11,033 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:25:16,197 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:26:25,556 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:26:30,934 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:26:36,053 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:26:41,107 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:26:46,330 [main] INFO logger_file - User click on Account option
+2022-11-28 14:26:46,455 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:26:51,591 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:26:57,222 [main] INFO logger_file - User Edit Card Info
+2022-11-28 14:27:02,340 [main] INFO logger_file - User Click On Update Card Button
+2022-11-28 14:33:31,853 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:33:37,245 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:33:42,368 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:33:47,411 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:33:52,634 [main] INFO logger_file - User click on Account option
+2022-11-28 14:33:52,767 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:33:57,919 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:37:04,339 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:37:09,708 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:37:14,832 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:37:19,881 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:37:25,101 [main] INFO logger_file - User click on Account option
+2022-11-28 14:37:25,245 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:37:30,405 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:44:29,333 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:44:34,659 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:44:39,788 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:44:44,839 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:44:50,000 [main] INFO logger_file - User click on Account option
+2022-11-28 14:44:50,112 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:44:55,237 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:45:44,002 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:45:49,355 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:45:54,465 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:45:59,521 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:46:04,703 [main] INFO logger_file - User click on Account option
+2022-11-28 14:46:04,818 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:46:09,928 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 14:47:03,079 [main] INFO logger_file - Click on signIn Page
+2022-11-28 14:47:08,400 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 14:47:13,613 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 14:47:18,654 [main] INFO logger_file - User loggedIn into account
+2022-11-28 14:47:23,832 [main] INFO logger_file - User click on Account option
+2022-11-28 14:47:23,997 [main] INFO logger_file - User Click on Master Card
+2022-11-28 14:47:29,117 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 15:28:56,145 [main] INFO logger_file - Click on signIn Page
+2022-11-28 15:29:01,538 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 15:29:06,764 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 15:29:11,817 [main] INFO logger_file - User loggedIn into account
+2022-11-28 15:29:17,036 [main] INFO logger_file - User click on Account option
+2022-11-28 15:29:17,166 [main] INFO logger_file - User Click on Master Card
+2022-11-28 15:29:22,294 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 15:31:32,039 [main] INFO logger_file - Click on signIn Page
+2022-11-28 15:31:37,428 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 15:31:42,606 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 15:31:47,652 [main] INFO logger_file - User loggedIn into account
+2022-11-28 15:31:52,871 [main] INFO logger_file - User click on Account option
+2022-11-28 15:31:53,004 [main] INFO logger_file - User Click on Master Card
+2022-11-28 15:31:58,156 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 15:32:03,832 [main] INFO logger_file - User Edit Card Info
+2022-11-28 15:32:08,961 [main] INFO logger_file - User Click On Update Card Button
+2022-11-28 15:33:10,414 [main] INFO logger_file - Click on signIn Page
+2022-11-28 15:33:15,730 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 15:33:20,842 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 15:33:25,889 [main] INFO logger_file - User loggedIn into account
+2022-11-28 15:33:31,053 [main] INFO logger_file - User click on Account option
+2022-11-28 15:33:31,143 [main] INFO logger_file - User Click on Master Card
+2022-11-28 15:33:36,247 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 15:33:41,785 [main] INFO logger_file - User Edit Card Info
+2022-11-28 15:33:46,908 [main] INFO logger_file - User Click On Update Card Button
+2022-11-28 15:36:43,385 [main] INFO logger_file - Click on signIn Page
+2022-11-28 15:36:48,673 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 15:36:53,783 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 15:36:58,823 [main] INFO logger_file - User loggedIn into account
+2022-11-28 15:37:04,033 [main] INFO logger_file - User click on Account option
+2022-11-28 15:37:04,161 [main] INFO logger_file - User Click on Master Card
+2022-11-28 15:37:09,276 [main] INFO logger_file - User click on Edit optoin of card section
+2022-11-28 15:37:14,937 [main] INFO logger_file - User Edit Card Info
+2022-11-28 15:37:20,074 [main] INFO logger_file - User Click On Update Card Button
+2022-11-28 15:37:20,109 [main] INFO logger_file - Payment Method updated Successfully
+2022-11-28 16:10:36,631 [main] INFO logger_file - Click on signIn Page
+2022-11-28 16:10:42,056 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 16:10:47,204 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 16:10:52,256 [main] INFO logger_file - User loggedIn into account
+2022-11-28 16:12:27,567 [main] INFO logger_file - Click on signIn Page
+2022-11-28 16:12:33,025 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 16:12:38,145 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 16:12:43,200 [main] INFO logger_file - User loggedIn into account
+2022-11-28 16:12:48,437 [main] INFO logger_file - User click on Account option
+2022-11-28 16:12:48,552 [main] INFO logger_file - User Click on Master Card
+2022-11-28 16:12:53,680 [main] INFO logger_file - User Click On Remove Option
+2022-11-28 23:03:59,149 [main] INFO logger_file - Click on signIn Page
+2022-11-28 23:04:04,372 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-28 23:04:09,442 [main] INFO logger_file - User clicks on logIn Button
+2022-11-28 23:04:14,484 [main] INFO logger_file - User loggedIn into account
+2022-11-28 23:04:19,599 [main] INFO logger_file - User click on Account option
+2022-11-28 23:04:19,705 [main] INFO logger_file - User Click on Address Option
+2022-11-28 23:04:20,388 [main] INFO logger_file - User add new address
+2022-11-28 23:04:25,478 [main] INFO logger_file - User click Add Your Address button
+2022-11-28 23:04:25,496 [main] INFO logger_file - Address Added Successfully
+2022-11-29 20:10:25,463 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:10:30,825 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:10:35,954 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:10:41,003 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:10:46,201 [main] INFO logger_file - User click on Account option
+2022-11-29 20:10:46,354 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:12:02,035 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:12:07,381 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:12:12,521 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:12:17,557 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:12:22,741 [main] INFO logger_file - User click on Account option
+2022-11-29 20:12:22,898 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:25:27,550 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:25:32,900 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:25:38,089 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:25:43,138 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:25:48,340 [main] INFO logger_file - User click on Account option
+2022-11-29 20:25:48,495 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:27:54,400 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:27:59,764 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:28:04,885 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:28:09,932 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:28:15,129 [main] INFO logger_file - User click on Account option
+2022-11-29 20:28:15,287 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:29:14,632 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:29:20,012 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:29:25,143 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:29:30,184 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:29:35,384 [main] INFO logger_file - User click on Account option
+2022-11-29 20:29:35,543 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:46:06,165 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:46:11,513 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:46:16,640 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:46:21,683 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:46:26,867 [main] INFO logger_file - User click on Account option
+2022-11-29 20:46:27,002 [main] INFO logger_file - User Click on Address Option
+2022-11-29 20:54:06,891 [main] INFO logger_file - Click on signIn Page
+2022-11-29 20:54:12,242 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 20:54:17,380 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 20:54:22,431 [main] INFO logger_file - User loggedIn into account
+2022-11-29 20:54:27,618 [main] INFO logger_file - User click on Account option
+2022-11-29 20:54:27,759 [main] INFO logger_file - User Click on Address Option
+2022-11-29 21:53:28,586 [main] INFO logger_file - Click on signIn Page
+2022-11-29 21:53:33,953 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 21:53:39,105 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 21:53:44,143 [main] INFO logger_file - User loggedIn into account
+2022-11-29 21:53:49,324 [main] INFO logger_file - User click on Account option
+2022-11-29 21:53:49,460 [main] INFO logger_file - User Click on Address Option
+2022-11-29 21:55:42,915 [main] INFO logger_file - Click on signIn Page
+2022-11-29 21:55:48,270 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 21:55:53,397 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 21:55:58,439 [main] INFO logger_file - User loggedIn into account
+2022-11-29 21:56:03,620 [main] INFO logger_file - User click on Account option
+2022-11-29 21:56:03,761 [main] INFO logger_file - User Click on Address Option
+2022-11-29 21:56:04,782 [main] INFO logger_file - User add new address
+2022-11-29 21:56:09,934 [main] INFO logger_file - User click Add Your Address button
+2022-11-29 21:56:09,960 [main] INFO logger_file - Address Added Successfully
+2022-11-29 22:04:36,545 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:04:41,891 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:04:47,015 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:04:52,061 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:04:57,239 [main] INFO logger_file - User click on Account option
+2022-11-29 22:04:57,384 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:06:06,728 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:06:12,083 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:06:17,186 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:06:22,240 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:06:27,423 [main] INFO logger_file - User click on Account option
+2022-11-29 22:06:27,565 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:06:28,631 [main] INFO logger_file - User add new address
+2022-11-29 22:06:33,771 [main] INFO logger_file - User click Add Your Address button
+2022-11-29 22:06:33,797 [main] INFO logger_file - Address Added Successfully
+2022-11-29 22:15:43,791 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:15:49,172 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:15:54,303 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:15:59,349 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:16:04,534 [main] INFO logger_file - User click on Account option
+2022-11-29 22:16:04,687 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:30:07,048 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:30:12,419 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:30:17,615 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:30:22,656 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:30:27,848 [main] INFO logger_file - User click on Account option
+2022-11-29 22:30:27,996 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:31:41,127 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:31:46,486 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:31:51,630 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:31:56,688 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:32:01,919 [main] INFO logger_file - User click on Account option
+2022-11-29 22:32:02,103 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:32:03,266 [main] INFO logger_file - User add new address
+2022-11-29 22:32:08,407 [main] INFO logger_file - User click Add Your Address button
+2022-11-29 22:32:08,433 [main] INFO logger_file - Address Added Successfully
+2022-11-29 22:35:26,989 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:35:32,356 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:35:37,510 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:35:42,555 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:35:47,729 [main] INFO logger_file - User click on Account option
+2022-11-29 22:35:47,933 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:40:02,618 [main] INFO logger_file - Click on signIn Page
+2022-11-29 22:40:07,959 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-29 22:40:13,076 [main] INFO logger_file - User clicks on logIn Button
+2022-11-29 22:40:18,126 [main] INFO logger_file - User loggedIn into account
+2022-11-29 22:40:23,316 [main] INFO logger_file - User click on Account option
+2022-11-29 22:40:23,475 [main] INFO logger_file - User Click on Address Option
+2022-11-29 22:40:24,447 [main] INFO logger_file - User add new address
+2022-11-29 22:40:29,629 [main] INFO logger_file - User click Add Your Address button
+2022-11-29 22:40:29,663 [main] INFO logger_file - Address Added Successfully
+2022-11-30 07:19:34,730 [main] INFO logger_file - Click on signIn Page
+2022-11-30 07:19:40,133 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 07:19:45,257 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 07:19:50,310 [main] INFO logger_file - User loggedIn into account
+2022-11-30 07:19:55,528 [main] INFO logger_file - User click on Account option
+2022-11-30 07:19:55,696 [main] INFO logger_file - User Click on Address Option
+2022-11-30 07:19:57,091 [main] INFO logger_file - User add new address
+2022-11-30 07:20:02,241 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 07:20:02,271 [main] INFO logger_file - Address Added Successfully
+2022-11-30 07:22:14,214 [main] INFO logger_file - Click on signIn Page
+2022-11-30 07:22:19,595 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 07:22:24,771 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 07:22:29,815 [main] INFO logger_file - User loggedIn into account
+2022-11-30 07:22:35,049 [main] INFO logger_file - User click on Account option
+2022-11-30 07:22:35,226 [main] INFO logger_file - User Click on Address Option
+2022-11-30 07:22:41,831 [main] INFO logger_file - User add new address
+2022-11-30 07:22:47,031 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 07:25:03,709 [main] INFO logger_file - Click on signIn Page
+2022-11-30 07:25:09,090 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 07:25:14,218 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 07:25:19,262 [main] INFO logger_file - User loggedIn into account
+2022-11-30 07:25:24,501 [main] INFO logger_file - User click on Account option
+2022-11-30 07:25:24,671 [main] INFO logger_file - User Click on Address Option
+2022-11-30 07:25:26,213 [main] INFO logger_file - User add new address
+2022-11-30 07:25:31,378 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 07:29:40,215 [main] INFO logger_file - Click on signIn Page
+2022-11-30 07:29:45,534 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 07:29:50,640 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 07:29:55,681 [main] INFO logger_file - User loggedIn into account
+2022-11-30 07:30:00,858 [main] INFO logger_file - User click on Account option
+2022-11-30 07:30:00,986 [main] INFO logger_file - User Click on Address Option
+2022-11-30 07:30:02,046 [main] INFO logger_file - User add new address
+2022-11-30 07:30:07,159 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 07:30:07,179 [main] INFO logger_file - Address Added Successfully
+2022-11-30 07:31:13,768 [main] INFO logger_file - Click on signIn Page
+2022-11-30 07:31:19,134 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 07:31:24,256 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 07:31:29,304 [main] INFO logger_file - User loggedIn into account
+2022-11-30 07:31:34,516 [main] INFO logger_file - User click on Account option
+2022-11-30 07:31:34,685 [main] INFO logger_file - User Click on Address Option
+2022-11-30 07:31:36,176 [main] INFO logger_file - User add new address
+2022-11-30 07:31:41,324 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 15:18:07,304 [main] INFO logger_file - Click on signIn Page
+2022-11-30 15:18:12,579 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 15:18:17,674 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 15:18:22,711 [main] INFO logger_file - User loggedIn into account
+2022-11-30 15:18:27,843 [main] INFO logger_file - User click on Account option
+2022-11-30 15:18:27,938 [main] INFO logger_file - User Click on Address Option
+2022-11-30 15:18:28,761 [main] INFO logger_file - User add new address
+2022-11-30 15:18:33,853 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 15:18:33,875 [main] INFO logger_file - Address Added Successfully
+2022-11-30 15:20:27,853 [main] INFO logger_file - Click on signIn Page
+2022-11-30 15:20:33,108 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-11-30 15:20:38,197 [main] INFO logger_file - User clicks on logIn Button
+2022-11-30 15:20:43,229 [main] INFO logger_file - User loggedIn into account
+2022-11-30 15:20:48,349 [main] INFO logger_file - User click on Account option
+2022-11-30 15:20:48,442 [main] INFO logger_file - User Click on Address Option
+2022-11-30 15:20:49,315 [main] INFO logger_file - User add new address
+2022-11-30 15:20:54,413 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 15:20:54,440 [main] INFO logger_file - Address Added Successfully
+2022-12-04 11:51:05,190 [main] INFO logger_file - Click on signIn Page
+2022-12-04 11:51:10,439 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 11:51:15,526 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 11:51:20,565 [main] INFO logger_file - User loggedIn into account
+2022-12-04 11:51:25,679 [main] INFO logger_file - User click on Account option
+2022-12-04 11:51:25,778 [main] INFO logger_file - User Click on Address Option
+2022-12-04 11:51:26,637 [main] INFO logger_file - User add new address
+2022-12-04 11:51:31,721 [main] INFO logger_file - User click Add Your Address button
+2022-12-04 11:51:31,739 [main] INFO logger_file - Address Added Successfully
+2022-12-04 11:52:47,141 [main] INFO logger_file - Click on signIn Page
+2022-12-04 11:52:52,358 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 11:52:57,437 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 11:53:02,474 [main] INFO logger_file - User loggedIn into account
+2022-12-04 11:53:07,607 [main] INFO logger_file - User click on Account option
+2022-12-04 11:53:07,695 [main] INFO logger_file - User Click on Master Card
+2022-12-04 11:53:12,777 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 11:53:18,189 [main] INFO logger_file - User Edit Card Info
+2022-12-04 11:53:23,286 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:18:01,442 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:18:06,651 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:18:11,738 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:18:16,772 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:18:21,879 [main] INFO logger_file - User click on Account option
+2022-12-04 12:18:21,954 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:18:27,040 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:18:32,675 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:18:37,739 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:30:30,689 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:30:35,911 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:30:40,980 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:30:46,012 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:30:51,127 [main] INFO logger_file - User click on Account option
+2022-12-04 12:30:51,218 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:30:56,302 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:31:01,947 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:31:07,032 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:33:34,728 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:33:40,001 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:33:45,120 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:33:50,144 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:33:55,266 [main] INFO logger_file - User click on Account option
+2022-12-04 12:33:55,385 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:34:00,465 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:34:06,153 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:34:11,233 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:38:20,433 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:38:25,712 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:38:30,796 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:38:35,838 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:38:40,978 [main] INFO logger_file - User click on Account option
+2022-12-04 12:38:41,127 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:38:46,223 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:38:52,021 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:38:57,114 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:39:51,680 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:39:57,046 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:40:02,167 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:40:07,193 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:40:12,329 [main] INFO logger_file - User click on Account option
+2022-12-04 12:40:12,439 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:40:17,544 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:40:23,364 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:40:28,460 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:41:02,217 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:41:07,481 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:41:12,570 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:41:17,598 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:41:22,721 [main] INFO logger_file - User click on Account option
+2022-12-04 12:41:22,813 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:41:27,913 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:41:33,730 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:41:38,839 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:42:41,553 [main] INFO logger_file - Click on signIn Page
+2022-12-04 12:42:46,823 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-04 12:42:51,913 [main] INFO logger_file - User clicks on logIn Button
+2022-12-04 12:42:56,945 [main] INFO logger_file - User loggedIn into account
+2022-12-04 12:43:02,096 [main] INFO logger_file - User click on Account option
+2022-12-04 12:43:02,195 [main] INFO logger_file - User Click on Master Card
+2022-12-04 12:43:07,328 [main] INFO logger_file - User click on Edit optoin of card section
+2022-12-04 12:43:13,263 [main] INFO logger_file - User Edit Card Info
+2022-12-04 12:43:18,347 [main] INFO logger_file - User Click On Update Card Button
+2022-12-04 12:43:18,369 [main] INFO logger_file - Payment Method updated Successfully
+2022-12-05 18:41:36,145 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:41:41,472 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:41:46,576 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:41:51,615 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:41:56,869 [main] INFO logger_file - User click on Account option
+2022-12-05 18:41:57,033 [main] INFO logger_file - User Click on Address Option
+2022-12-05 18:41:58,620 [main] INFO logger_file - User add new address
+2022-12-05 18:42:03,764 [main] INFO logger_file - User click Add Your Address button
+2022-12-05 18:42:03,789 [main] INFO logger_file - Address Added Successfully
+2022-12-05 18:45:34,728 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:45:40,051 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:45:45,161 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:45:50,208 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:45:55,424 [main] INFO logger_file - User click on Account option
+2022-12-05 18:48:07,915 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:48:13,337 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:48:18,449 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:48:23,489 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:48:28,708 [main] INFO logger_file - User click on Account option
+2022-12-05 18:48:28,863 [main] INFO logger_file - User click on edit address option
+2022-12-05 18:50:59,763 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:51:05,183 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:51:10,293 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:51:15,337 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:51:20,547 [main] INFO logger_file - User click on Account option
+2022-12-05 18:51:20,651 [main] INFO logger_file - User click on Account option
+2022-12-05 18:51:20,791 [main] INFO logger_file - User click on edit address option
+2022-12-05 18:56:00,725 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:56:06,100 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:56:11,251 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:56:16,296 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:56:21,492 [main] INFO logger_file - User click on Account option
+2022-12-05 18:56:21,589 [main] INFO logger_file - User click on Account option
+2022-12-05 18:56:21,714 [main] INFO logger_file - User click on edit address option
+2022-12-05 18:58:00,384 [main] INFO logger_file - Click on signIn Page
+2022-12-05 18:58:05,748 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 18:58:10,874 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 18:58:15,926 [main] INFO logger_file - User loggedIn into account
+2022-12-05 18:58:21,112 [main] INFO logger_file - User click on Account option
+2022-12-05 18:58:21,182 [main] INFO logger_file - User click on Account option
+2022-12-05 18:58:21,286 [main] INFO logger_file - User click on edit address option
+2022-12-05 18:59:58,797 [main] INFO logger_file - Click on signIn Page
+2022-12-05 19:00:04,189 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 19:00:09,304 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 19:00:14,348 [main] INFO logger_file - User loggedIn into account
+2022-12-05 19:00:19,567 [main] INFO logger_file - User click on Account option
+2022-12-05 19:00:19,668 [main] INFO logger_file - User click on Account option
+2022-12-05 19:00:19,814 [main] INFO logger_file - User click on edit address option
+2022-12-05 21:31:09,941 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:31:15,202 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:31:20,302 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:31:25,334 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:31:30,464 [main] INFO logger_file - User click on Account option
+2022-12-05 21:31:30,594 [main] INFO logger_file - User Click on Address Option
+2022-12-05 21:31:31,618 [main] INFO logger_file - User add new address
+2022-12-05 21:31:36,720 [main] INFO logger_file - User click Add Your Address button
+2022-12-05 21:31:36,741 [main] INFO logger_file - Address Added Successfully
+2022-12-05 21:38:27,012 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:38:32,265 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:38:37,368 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:38:42,396 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:38:47,525 [main] INFO logger_file - User click on Account option
+2022-12-05 21:38:47,634 [main] INFO logger_file - User Click on Address Option
+2022-12-05 21:38:48,473 [main] INFO logger_file - User add new address
+2022-12-05 21:38:53,570 [main] INFO logger_file - User click Add Your Address button
+2022-12-05 21:38:53,594 [main] INFO logger_file - Address Added Successfully
+2022-12-05 21:44:05,775 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:44:11,075 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:44:16,169 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:44:21,197 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:44:26,352 [main] INFO logger_file - User click on Account option
+2022-12-05 21:44:26,470 [main] INFO logger_file - User click on edit address option
+2022-12-05 21:44:28,144 [main] INFO logger_file - User add new address
+2022-12-05 21:44:33,240 [main] INFO logger_file - User click update your address button
+2022-12-05 21:44:33,265 [main] INFO logger_file - Address Added Successfully
+2022-12-05 21:49:42,454 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:49:47,682 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:49:52,768 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:49:57,801 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:50:02,921 [main] INFO logger_file - User click on Account option
+2022-12-05 21:50:03,023 [main] INFO logger_file - User Click on Address Option
+2022-12-05 21:50:03,790 [main] INFO logger_file - User add new address
+2022-12-05 21:50:08,882 [main] INFO logger_file - User click Add Your Address button
+2022-12-05 21:50:08,903 [main] INFO logger_file - Address Added Successfully
+2022-12-05 21:50:44,563 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:50:49,781 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:50:54,856 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:50:59,882 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:51:05,000 [main] INFO logger_file - User click on Account option
+2022-12-05 21:51:05,110 [main] INFO logger_file - User click on edit address option
+2022-12-05 21:51:06,320 [main] INFO logger_file - User add new address
+2022-12-05 21:51:11,394 [main] INFO logger_file - User click update your address button
+2022-12-05 21:51:11,412 [main] INFO logger_file - Address Added Successfully
+2022-12-05 21:54:02,464 [main] INFO logger_file - Click on signIn Page
+2022-12-05 21:54:07,712 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-05 21:54:12,792 [main] INFO logger_file - User clicks on logIn Button
+2022-12-05 21:54:17,823 [main] INFO logger_file - User loggedIn into account
+2022-12-05 21:54:22,940 [main] INFO logger_file - User click on Account option
+2022-12-05 21:54:23,023 [main] INFO logger_file - User cick on remove option of Address section
+2022-12-05 21:54:23,046 [main] INFO logger_file - Address details should be removed
+2022-12-05 22:24:07,434 [main] INFO logger_file - User click on All section
+2022-12-05 22:27:01,349 [main] INFO logger_file - User click on All section
+2022-12-05 22:55:02,883 [main] INFO logger_file - User click on All section
+2022-12-06 22:14:50,396 [main] INFO logger_file - User click on All section
+2022-12-06 22:28:49,861 [main] INFO logger_file - User click on All section
+2022-12-06 22:28:56,768 [main] INFO logger_file - User click on All section
+2022-12-06 22:29:04,102 [main] INFO logger_file - User click on All section
+2022-12-06 22:29:11,762 [main] INFO logger_file - User click on All section
+2022-12-06 22:29:19,150 [main] INFO logger_file - User click on All section
+2022-12-06 23:19:59,760 [main] INFO logger_file - User click on All section
+2022-12-06 23:20:07,451 [main] INFO logger_file - User click on All section
+2022-12-06 23:20:15,597 [main] INFO logger_file - User click on All section
+2022-12-06 23:20:23,609 [main] INFO logger_file - User click on All section
+2022-12-06 23:20:31,560 [main] INFO logger_file - User click on All section
+2022-12-06 23:25:00,361 [main] INFO logger_file - User click on All section
+2022-12-06 23:25:08,438 [main] INFO logger_file - User click on All section
+2022-12-06 23:25:16,726 [main] INFO logger_file - User click on All section
+2022-12-06 23:25:25,068 [main] INFO logger_file - User click on All section
+2022-12-06 23:25:33,099 [main] INFO logger_file - User click on All section
+2022-12-06 23:27:25,435 [main] INFO logger_file - User click on All section
+2022-12-06 23:27:25,597 [main] INFO logger_file - Userr on Electronics
+2022-12-06 23:27:38,362 [main] INFO logger_file - User click on All section
+2022-12-06 23:27:38,512 [main] INFO logger_file - Userr on Electronics
+2022-12-06 23:27:51,650 [main] INFO logger_file - User click on All section
+2022-12-06 23:27:51,801 [main] INFO logger_file - Userr on Electronics
+2022-12-06 23:28:04,641 [main] INFO logger_file - User click on All section
+2022-12-06 23:28:04,807 [main] INFO logger_file - Userr on Electronics
+2022-12-06 23:28:17,651 [main] INFO logger_file - User click on All section
+2022-12-06 23:28:17,804 [main] INFO logger_file - Userr on Electronics
+2022-12-06 23:30:08,393 [main] INFO logger_file - User click on All section
+2022-12-07 22:17:02,793 [main] INFO logger_file - User click on All section
+2022-12-07 22:22:23,034 [main] INFO logger_file - User click on All section
+2022-12-07 22:22:23,261 [main] INFO logger_file - User click on All section
+2022-12-07 22:38:00,281 [main] INFO logger_file - Click on signIn Page
+2022-12-07 22:38:05,529 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-07 22:38:10,639 [main] INFO logger_file - User clicks on logIn Button
+2022-12-07 22:38:15,677 [main] INFO logger_file - User loggedIn into account
+2022-12-07 22:38:20,793 [main] INFO logger_file - User click on Account option
+2022-12-08 23:12:20,730 [main] INFO logger_file - Click on signIn Page
+2022-12-08 23:12:25,932 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-08 23:12:31,029 [main] INFO logger_file - User clicks on logIn Button
+2022-12-08 23:12:36,085 [main] INFO logger_file - User loggedIn into account
+2022-12-08 23:12:41,220 [main] INFO logger_file - User click on Account option
+2022-12-08 23:12:41,378 [main] INFO logger_file - User change the category to Smart Home
+2022-12-08 23:12:41,481 [main] INFO logger_file - User search for an item
+2022-12-08 23:25:32,293 [main] INFO logger_file - Click on signIn Page
+2022-12-08 23:25:37,506 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-08 23:25:42,588 [main] INFO logger_file - User clicks on logIn Button
+2022-12-08 23:25:47,619 [main] INFO logger_file - User loggedIn into account
+2022-12-08 23:25:52,753 [main] INFO logger_file - User click on Account option
+2022-12-08 23:25:52,891 [main] INFO logger_file - User change the category to Smart Home
+2022-12-08 23:25:52,987 [main] INFO logger_file - User search for an item
+2022-12-08 23:30:36,608 [main] INFO logger_file - Click on signIn Page
+2022-12-08 23:30:41,832 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-08 23:30:46,930 [main] INFO logger_file - User clicks on logIn Button
+2022-12-08 23:30:51,973 [main] INFO logger_file - User loggedIn into account
+2022-12-08 23:30:57,094 [main] INFO logger_file - User click on Account option
+2022-12-08 23:30:57,240 [main] INFO logger_file - User change the category to Smart Home
+2022-12-08 23:30:57,344 [main] INFO logger_file - User search for an item
+2022-12-08 23:50:04,111 [main] INFO logger_file - Click on signIn Page
+2022-12-08 23:50:09,337 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-08 23:50:14,412 [main] INFO logger_file - User clicks on logIn Button
+2022-12-08 23:50:19,436 [main] INFO logger_file - User loggedIn into account
+2022-12-08 23:50:24,558 [main] INFO logger_file - User click on Account option
+2022-12-08 23:50:24,699 [main] INFO logger_file - User change the category to Smart Home
+2022-12-08 23:50:24,801 [main] INFO logger_file - User search for an item
+2022-12-08 23:55:18,489 [main] INFO logger_file - Click on signIn Page
+2022-12-08 23:55:23,708 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-08 23:55:28,803 [main] INFO logger_file - User clicks on logIn Button
+2022-12-08 23:55:33,846 [main] INFO logger_file - User loggedIn into account
+2022-12-08 23:55:38,968 [main] INFO logger_file - User click on Account option
+2022-12-08 23:55:39,109 [main] INFO logger_file - User change the category to Smart Home
+2022-12-08 23:55:39,211 [main] INFO logger_file - User search for an item
+2022-12-11 19:29:37,457 [main] INFO logger_file - Click on signIn Page
+2022-12-11 19:29:42,813 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-11 19:29:47,939 [main] INFO logger_file - User clicks on logIn Button
+2022-12-11 19:29:53,003 [main] INFO logger_file - User loggedIn into account
+2022-12-11 19:29:58,196 [main] INFO logger_file - User click on Account option
+2022-12-11 19:29:58,326 [main] INFO logger_file - User change the category to Smart Home
+2022-12-11 19:29:58,448 [main] INFO logger_file - User search for an itme
+2022-12-11 19:29:58,568 [main] INFO logger_file - User click on Search icon
+2022-12-11 19:29:58,750 [main] INFO logger_file - User click on itme
+2022-12-11 19:29:59,511 [main] INFO logger_file - User click on add to cart button
+2022-12-11 19:29:59,544 [main] INFO logger_file - Item added to the cart
+2022-12-12 18:46:33,469 [main] INFO logger_file - Click on signIn Page
+2022-12-12 18:46:38,777 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-12 18:46:43,879 [main] INFO logger_file - User clicks on logIn Button
+2022-12-12 18:46:48,920 [main] INFO logger_file - User loggedIn into account
+2022-12-12 18:46:54,068 [main] INFO logger_file - User click on Account option
+2022-12-12 18:46:54,172 [main] INFO logger_file - User click on cart option
+2022-12-12 18:46:54,274 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-12 18:46:54,367 [main] INFO logger_file - User click Add a new address link for shipping address
+2022-12-12 18:52:11,510 [main] INFO logger_file - Click on signIn Page
+2022-12-12 18:52:16,874 [main] INFO logger_file - User enter emailfarhad.jamal@tekschool.uspasswordAbc@123abc
+2022-12-12 18:52:22,001 [main] INFO logger_file - User clicks on logIn Button
+2022-12-12 18:52:27,048 [main] INFO logger_file - User loggedIn into account
+2022-12-12 18:52:32,217 [main] INFO logger_file - User click on Account option
+2022-12-12 18:52:32,340 [main] INFO logger_file - User click on cart option
+2022-12-12 18:52:32,470 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-12 18:52:32,586 [main] INFO logger_file - User click Add a new address link for shipping address
+2022-12-12 18:52:33,990 [main] INFO logger_file - User add new address
+2022-12-12 18:52:39,125 [main] INFO logger_file - User click update your address button
+2022-12-12 18:52:39,250 [main] INFO logger_file - User click Add a credit card or Debit Card for Payment method
+2022-12-12 18:52:39,811 [main] INFO logger_file - User enter payment information
+2022-12-12 18:52:44,919 [main] INFO logger_file - User click on Add your card button
+2022-12-12 18:52:45,050 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 18:07:53,714 [main] INFO logger_file - Click on signIn Page
+2022-12-13 18:07:59,089 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 18:08:04,225 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 18:08:09,272 [main] INFO logger_file - User loggedIn into account
+2022-12-13 18:08:14,630 [main] INFO logger_file - User change the category to Electronics
+2022-12-13 18:08:19,866 [main] INFO logger_file - User search for an item 'Apex Legends'
+2022-12-13 18:08:24,985 [main] INFO logger_file - User click on Search icon
+2022-12-13 18:08:30,106 [main] INFO logger_file - User click on itme
+2022-12-13 18:08:35,460 [main] INFO logger_file - User click on add to cart button
+2022-12-13 18:08:35,486 [main] INFO logger_file - Item added to the cart
+2022-12-13 18:08:40,626 [main] INFO logger_file - User click on cart option
+2022-12-13 18:08:40,757 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-13 18:08:40,889 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 18:57:23,358 [main] INFO logger_file - Click on signIn Page
+2022-12-13 18:57:28,698 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 18:57:33,828 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 18:57:38,890 [main] INFO logger_file - User loggedIn into account
+2022-12-13 18:57:44,093 [main] INFO logger_file - User click on Orders section
+2022-12-13 18:59:30,192 [main] INFO logger_file - Click on signIn Page
+2022-12-13 18:59:35,509 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 18:59:40,630 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 18:59:45,689 [main] INFO logger_file - User loggedIn into account
+2022-12-13 18:59:51,063 [main] INFO logger_file - User change the category to Electronics
+2022-12-13 18:59:56,188 [main] INFO logger_file - User search for an item 'Apex Legends'
+2022-12-13 19:00:01,290 [main] INFO logger_file - User click on Search icon
+2022-12-13 19:00:06,395 [main] INFO logger_file - User click on itme
+2022-12-13 19:00:11,758 [main] INFO logger_file - User click on add to cart button
+2022-12-13 19:00:11,787 [main] INFO logger_file - Item added to the cart
+2022-12-13 19:00:16,928 [main] INFO logger_file - User click on cart option
+2022-12-13 19:00:17,055 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-13 19:00:17,177 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 19:01:04,629 [main] INFO logger_file - Click on signIn Page
+2022-12-13 19:01:09,962 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 19:01:15,094 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 19:01:20,130 [main] INFO logger_file - User loggedIn into account
+2022-12-13 19:01:25,319 [main] INFO logger_file - User click on Orders section
+2022-12-13 19:01:30,470 [main] INFO logger_file - User click on Cancel The Order button
+2022-12-13 19:01:35,603 [main] INFO logger_file - User select the cancelation Reason
+2022-12-13 19:01:40,735 [main] INFO logger_file - User click on Cancel Order button
+2022-12-13 19:03:44,307 [main] INFO logger_file - Click on signIn Page
+2022-12-13 19:03:49,651 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 19:03:54,786 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 19:03:59,839 [main] INFO logger_file - User loggedIn into account
+2022-12-13 19:04:05,272 [main] INFO logger_file - User change the category to Electronics
+2022-12-13 19:04:10,409 [main] INFO logger_file - User search for an item 'Apex Legends'
+2022-12-13 19:04:15,543 [main] INFO logger_file - User click on Search icon
+2022-12-13 19:04:20,672 [main] INFO logger_file - User click on itme
+2022-12-13 19:04:26,066 [main] INFO logger_file - User click on add to cart button
+2022-12-13 19:04:26,092 [main] INFO logger_file - Item added to the cart
+2022-12-13 19:04:31,245 [main] INFO logger_file - User click on cart option
+2022-12-13 19:04:31,378 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-13 19:04:31,525 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 19:05:16,345 [main] INFO logger_file - Click on signIn Page
+2022-12-13 19:05:21,698 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 19:05:26,813 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 19:05:31,855 [main] INFO logger_file - User loggedIn into account
+2022-12-13 19:05:37,043 [main] INFO logger_file - User click on Orders section
+2022-12-13 19:05:42,184 [main] INFO logger_file - User click on Cancel The Order button
+2022-12-13 19:05:47,310 [main] INFO logger_file - User select the cancelation Reason
+2022-12-13 19:05:52,432 [main] INFO logger_file - User click on Cancel Order button
+2022-12-13 19:08:11,927 [main] INFO logger_file - Click on signIn Page
+2022-12-13 19:08:17,225 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 19:08:22,334 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 19:08:27,380 [main] INFO logger_file - User loggedIn into account
+2022-12-13 19:08:32,737 [main] INFO logger_file - User change the category to Electronics
+2022-12-13 19:08:37,887 [main] INFO logger_file - User search for an item 'Apex Legends'
+2022-12-13 19:08:43,006 [main] INFO logger_file - User click on Search icon
+2022-12-13 19:08:48,141 [main] INFO logger_file - User click on itme
+2022-12-13 19:08:53,558 [main] INFO logger_file - User click on add to cart button
+2022-12-13 19:08:53,588 [main] INFO logger_file - Item added to the cart
+2022-12-13 19:08:58,736 [main] INFO logger_file - User click on cart option
+2022-12-13 19:08:58,881 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-13 19:08:59,029 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 19:09:57,705 [main] INFO logger_file - Click on signIn Page
+2022-12-13 19:10:03,055 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 19:10:08,175 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 19:10:13,220 [main] INFO logger_file - User loggedIn into account
+2022-12-13 19:10:18,409 [main] INFO logger_file - User click on Orders section
+2022-12-13 19:10:23,544 [main] INFO logger_file - User click on Cancel The Order button
+2022-12-13 19:10:28,686 [main] INFO logger_file - User select the cancelation Reason
+2022-12-13 19:10:33,834 [main] INFO logger_file - User click on Cancel Order button
+2022-12-13 22:35:47,343 [main] INFO logger_file - Click on signIn Page
+2022-12-13 22:35:52,540 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 22:35:57,618 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 22:36:02,654 [main] INFO logger_file - User loggedIn into account
+2022-12-13 22:36:07,865 [main] INFO logger_file - User change the category to Electronics
+2022-12-13 22:36:12,955 [main] INFO logger_file - User search for an item 'Apex Legends'
+2022-12-13 22:36:18,025 [main] INFO logger_file - User click on Search icon
+2022-12-13 22:36:23,101 [main] INFO logger_file - User click on itme
+2022-12-13 22:36:28,363 [main] INFO logger_file - User click on add to cart button
+2022-12-13 22:36:28,383 [main] INFO logger_file - Item added to the cart
+2022-12-13 22:36:33,455 [main] INFO logger_file - User click on cart option
+2022-12-13 22:36:33,559 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-13 22:36:33,646 [main] INFO logger_file - Order Placed, Thanks
+2022-12-13 22:37:16,073 [main] INFO logger_file - Click on signIn Page
+2022-12-13 22:37:21,280 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 22:37:26,354 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 22:37:31,383 [main] INFO logger_file - User loggedIn into account
+2022-12-13 22:37:36,500 [main] INFO logger_file - User click on Orders section
+2022-12-13 22:37:41,591 [main] INFO logger_file - User click on Return Items button
+2022-12-13 22:37:46,666 [main] INFO logger_file - User select the Return Reason
+2022-12-13 22:37:51,733 [main] INFO logger_file - User select the Return Reason
+2022-12-13 22:37:56,808 [main] INFO logger_file - User click on Return Order button
+2022-12-13 23:04:36,075 [main] INFO logger_file - Click on signIn Page
+2022-12-13 23:04:41,290 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 23:04:46,375 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 23:04:51,406 [main] INFO logger_file - User loggedIn into account
+2022-12-13 23:04:56,533 [main] INFO logger_file - User click on the Orders section
+2022-12-13 23:05:01,611 [main] INFO logger_file - User click on Review button
+2022-12-13 23:05:06,825 [main] INFO logger_file - User write Review headline
+2022-12-13 23:05:11,905 [main] INFO logger_file - User click Add your Review button
+2022-12-13 23:08:33,336 [main] INFO logger_file - Click on signIn Page
+2022-12-13 23:08:38,539 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 23:08:43,618 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 23:08:48,645 [main] INFO logger_file - User loggedIn into account
+2022-12-13 23:08:53,756 [main] INFO logger_file - User click on the Orders section
+2022-12-13 23:08:58,827 [main] INFO logger_file - User click on Review button
+2022-12-13 23:09:04,030 [main] INFO logger_file - User write Review headline
+2022-12-13 23:09:09,105 [main] INFO logger_file - User click Add your Review button
+2022-12-13 23:10:29,859 [main] INFO logger_file - Click on signIn Page
+2022-12-13 23:10:35,053 [main] INFO logger_file - User enter emailfarhad.jamaly@tekschool.uspasswordAbc@123abc
+2022-12-13 23:10:40,145 [main] INFO logger_file - User clicks on logIn Button
+2022-12-13 23:10:45,177 [main] INFO logger_file - User loggedIn into account
+2022-12-13 23:10:50,286 [main] INFO logger_file - User click on the Orders section
+2022-12-13 23:10:55,364 [main] INFO logger_file - User click on Review button
+2022-12-13 23:11:00,579 [main] INFO logger_file - User write Review headline
+2022-12-13 23:11:05,643 [main] INFO logger_file - User click Add your Review button
